@@ -2,7 +2,7 @@
 
 ## 🌍 Business Context
 
-一个北美 AI 教育出海产品的获客模式：**雇佣 200+ 北美校园大使** 在 TikTok / Instagram / YouTube 拍短视频。每月有持续的**新大使入职**——需要 Onboarding 团队走完完整的入职流程后，新人才能开始拍视频。
+一个北美 AI 教育出海产品的获客模式：**雇佣 600+ 北美校园大使** 在 TikTok / Instagram / YouTube 拍短视频。每月有持续的**新大使入职**——需要 Onboarding 团队走完完整的入职流程后，新人才能开始拍视频。
 
 ## 🎯 The Concrete Problem
 
